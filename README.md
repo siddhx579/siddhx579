@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MySQL, Node.js, JavaScript**
 
-💬 Ask me about **C, C++, Java... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **C, C++, Java... or anything**
 
 ⚡ Fun fact **The ramen shop ‘Ichiraku’ in Naruto exists**
 
