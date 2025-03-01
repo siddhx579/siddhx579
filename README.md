@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siddhant+Kapoor!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India IN</h3>
+<h3 align="center">A passionate web developer from India IN</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a house renting application**
+ 🔭 I’m currently working on **a modern task application**
  
- 🌱 I’m currently learning **MySQL, Node.js, JavaScript**
+ 🌱 I’m currently learning **MySQL, Python, JavaScript**
 
 💬 Ask me about **C, C++, Java... or anything**
 
