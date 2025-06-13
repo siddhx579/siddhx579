@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td><strong>🧰 Tools & Platforms</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,vite,idea" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,vite,idea,arduino,discord,pycharm" /></td>
   </tr>
   <tr>
     <td><strong>💻 Languages</strong></td>
