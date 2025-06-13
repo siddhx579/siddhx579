@@ -34,11 +34,24 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <p>Frontend: </p><img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br>
+    <p>Frontend</p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs" /><br>
 </div>
-<div>
-    <p>Backend: </p>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,nextjs,c,java,mysql,mongodb,postgres,supabase" /><br>
+<div align="center">
+    <p>Backend</p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,prisma" /><br>
+</div>
+<div align="center">
+    <p>Database</p>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /><br>
+</div>
+<div align="center">
+    <p>Tools</p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,vite,idea" /><br>
+</div>
+<div align="center">
+    <p>Languages</p>
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,c" /><br>
 </div>
 
 <br/>
