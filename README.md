@@ -34,8 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <p>Frontend: </p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br>
+    <p>Frontend: </p><img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br>
 </div>
 <div>
     <p>Backend: </p>
