@@ -34,24 +34,28 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <br>
 
-<div align="center">
-  
-  <h4>🌐 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-  <h4>🧠 Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,prisma" />
-
-  <h4>🗃️ Database</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-  <h4>🧰 Tools & Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,vite,idea" />
-
-  <h4>💻 Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,c" />
-  
-</div>
+<table align="center">
+  <tr>
+    <td><strong>🌐 Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,prisma" /></td>
+  </tr>
+  <tr>
+    <td><strong>🗃️ Database</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧰 Tools & Platforms</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,vite,idea" /></td>
+  </tr>
+  <tr>
+    <td><strong>💻 Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=java,py,cpp,c" /></td>
+  </tr>
+</table>
 
 
 <br/>
