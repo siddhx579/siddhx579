@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a modern task application**
+ 🔭 I’m currently working at **SAC - ISRO**
  
- 🌱 I’m currently learning **MySQL, Python, JavaScript**
+ 🌱 I’m currently learning **Vue.js, Flask, SQLite**
 
-💬 Ask me about **C, C++, Java... or anything**
+💬 Ask me about **JS, TS, Next.js... or anything**
 
 ⚡ Fun fact **The ramen shop ‘Ichiraku’ in Naruto exists**
 
